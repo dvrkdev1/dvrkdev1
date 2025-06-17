@@ -32,6 +32,7 @@
 ```txt
 Langages : JavaScript, Lua, GLua, Python, SQL, HTML, JSON
 Framework : React
+```
 <p> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=FF0000" /> <img src="https://img.shields.io/badge/GLua-black?style=for-the-badge&logo=lua&logoColor=FF0000" /> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=FF0000" /> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=FF0000" /> <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=FF0000" /> <img src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=FF0000" /> </p>
 
 📈 GitHub Stats
